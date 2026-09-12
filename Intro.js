@@ -1,4 +1,3 @@
-
 const name = "Kayode";
 const age = 21;
 const favoriteProgrammingLanguage = "Python";
